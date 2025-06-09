@@ -1,7 +1,7 @@
 ﻿using ASPDemo1.Model;
 using AutoMapper;
 
-namespace ASPDemo1.Extensions;
+namespace ASPDemo1.Extension.ServiceExtension;
 
 public class CustomProfile : Profile {
     public CustomProfile() {

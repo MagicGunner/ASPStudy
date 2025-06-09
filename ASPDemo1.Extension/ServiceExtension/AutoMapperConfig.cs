@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 
-namespace ASPDemo1.Extensions;
+namespace ASPDemo1.Extension.ServiceExtension;
 
 public class AutoMapperConfig {
     public static MapperConfiguration RegisterMappings() {

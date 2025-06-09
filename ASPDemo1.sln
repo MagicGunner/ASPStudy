@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPDemo1.IService", "ASPDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPDemo1.Service", "ASPDemo1.Service\ASPDemo1.Service.csproj", "{C8BC8C3F-500E-4AF5-B363-94E97F9CC33E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPDemo1.Extension", "ASPDemo1.Extension\ASPDemo1.Extension.csproj", "{2D21DBB0-E11B-4606-9365-D936D33BF8AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{C8BC8C3F-500E-4AF5-B363-94E97F9CC33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8BC8C3F-500E-4AF5-B363-94E97F9CC33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8BC8C3F-500E-4AF5-B363-94E97F9CC33E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D21DBB0-E11B-4606-9365-D936D33BF8AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D21DBB0-E11B-4606-9365-D936D33BF8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D21DBB0-E11B-4606-9365-D936D33BF8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D21DBB0-E11B-4606-9365-D936D33BF8AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
